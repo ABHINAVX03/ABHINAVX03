@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ABHINAVX03
+- 👀 I’m interested in tech and software development , playing football ,solving problems in different platforms.
+- 🌱 I’m currently learning computer science application BCA(Bachlors in computer applications).
+- 💞️ I’m looking to collaborate on a project or future tech like ML , AI and etc. and to learn something which helps in big companies to place me. 
+- 📫 How to reach me -> email: guptaabhinav697@gmail.com ,linkdin: www.linkedin.com/in/abhinav-gupta-367369167
