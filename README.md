@@ -11,8 +11,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beta-smoky-46.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-gupta-367369167)
 [![Gmail](https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaabhinav697@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ABHINAVX03/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ABHINAVX03)
+[![LeetCode](https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ABHINAVx00)
+[![Codeforces](https://img.shields.io/badge/Codeforces-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/lazyhazard03)
 
 <img src="https://komarev.com/ghpvc/?username=ABHINAVX03&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -27,7 +27,7 @@ class Developer {
   constructor() {
     this.name      = "Abhinav Gupta";
     this.role      = "SDE-1 (Full Stack) — Class of 2028";
-    this.education = "MCA @ IIIT Vadodara · BCA @ GGSIPU (9.2 GPA)";
+    this.education = "MCA @ IIIT Vadodara (2025–2028) · BCA @ GGSIPU (9.2 GPA)";
     this.stack     = ["Java", "Spring Boot", "React", "Next.js", "PostgreSQL", "Solidity"];
     this.dsa       = "422+ problems solved · Codeforces Pupil (1383)";
     this.status    = "open_to_work";
@@ -35,9 +35,9 @@ class Developer {
 }
 ```
 
-- 🎓 2025-2028 **MCA** student at **IIIT Vadodara**, building production-grade full-stack applications
+- 🎓 **MCA** student at **IIIT Vadodara** (2025–2028), building production-grade full-stack applications
 - 🛠️ Comfortable end-to-end — Spring Boot REST APIs, React/Next.js frontends, PostgreSQL, and Solidity smart contracts
-- 🧠 **422+ DSA problems solved** on LeetCode & GeeksforGeeks · **Codeforces Pupil (1383)** — [`lazyhazard03`](https://codeforces.com/profile/ABHINAVX03)
+- 🧠 **422+ DSA problems solved** on LeetCode & GeeksforGeeks · **Codeforces Pupil (1383)** — [`lazyhazard03`](https://codeforces.com/profile/lazyhazard03)
 - 🌱 Currently sharpening **system design (HLD/LLD)**, **Kafka & event-driven architecture**, and advanced Next.js performance
 - 💼 **Actively looking for SDE-1 roles**, freelance work, and interesting collaborations
 - 📫 Reach me at **guptaabhinav697@gmail.com**
