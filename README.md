@@ -122,7 +122,7 @@ Enterprise-grade, event-driven distributed social network architecture engineere
 `Java 21` `Spring Boot 3.3` `Spring Cloud` `Apache Kafka` `Neo4j` `PostgreSQL` `Redis` `React 18` `AWS S3 / CloudFront` `Docker`
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ABHINAVX03/nexora)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://nexoranetworks.site)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://nexoranetwork.site)
 
 <br/>
 
