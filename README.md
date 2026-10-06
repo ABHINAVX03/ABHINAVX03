@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-gupta-367369167)
 [![Gmail](https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaabhinav697@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ABHINAVx00)
-[![Codeforces](https://img.shields.io/badge/Codeforces-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/lazyhazard03)
+[![Codeforces](https://img.shields.io/badge/Codeforces-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abhinavx03)
 
 <img src="https://komarev.com/ghpvc/?username=ABHINAVX03&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -37,7 +37,7 @@ class Developer {
 
 - 🎓 **MCA student at IIIT Vadodara** (2025–2028), engineering high-throughput, event-driven distributed systems and production-grade full-stack platforms
 - 🛠️ End-to-end expertise across **Java 21 (Virtual Threads) / Spring Cloud microservices**, **Apache Kafka** event streams, **Neo4j** graph traversals, **Redis caching & rate limiting**, and **React / Next.js / TypeScript** frontends
-- 🧠 **422+ DSA problems solved** on LeetCode & GeeksforGeeks · **Codeforces Pupil (1383)** — [`lazyhazard03`](https://codeforces.com/profile/lazyhazard03)
+- 🧠 **422+ DSA problems solved** on LeetCode & GeeksforGeeks · **Codeforces Pupil (1383)** — [`lazyhazard03`](https://codeforces.com/profile/Abhinavx03)
 - ☁️ Cloud & DevOps proficient with **AWS (EC2, S3, CloudFront CDN)**, **Docker containerization**, and automated **GitHub Actions CI/CD**
 - 💼 **Actively looking for SDE-1 & Backend Engineer roles**, freelance work, and high-impact engineering collaborations
 - 📫 Reach me at **guptaabhinav697@gmail.com**
@@ -212,7 +212,7 @@ On-chain voting application with **full unit test coverage** via Truffle & Ganac
 | Platform | Handle | Stats |
 |---|---|---|
 | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | [ABHINAVX03](https://leetcode.com/u/ABHINAVx00) | 300+ problems solved |
-| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [lazyhazard03](https://codeforces.com/profile/lazyhazard03) | Pupil · Rating 1383 |
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [lazyhazard03](https://codeforces.com/profile/Abhinavx03) | Pupil · Rating 1383 |
 | ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | [ABHINAVX03](https://www.geeksforgeeks.org/profile/guptaabhinav697) | Active contributor |
 | ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | [ABHINAVX03](https://www.hackerrank.com/profile/ABHINAVX03) | Java (5★ Gold) · React.js certified |
 
